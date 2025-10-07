@@ -15,7 +15,7 @@ Esta herramienta permite calcular los parámetros óptimos de Burst para equipos
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/mikrotik-burst-calculator.git
+git clone https://github.com/franvozzi/mikrotik-burst-calculator.git
 ```
 Instala las dependencias del frontend y backend según las instrucciones de cada carpeta.
 
